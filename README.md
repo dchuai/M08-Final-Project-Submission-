@@ -38,7 +38,6 @@
    - View reports to make informed decisions about sales, inventory, and customer feedback.
 
 ## GitHub Repository:
-
-[Link to GitHub Repository]
+https://github.com/dchuai/M08-Final-Project-Submission-
 
 Feel free to check the repository for detailed documentation, code, and any additional files related to the Sweet Delights Bakery System.
